@@ -1,4 +1,4 @@
-# 👋 Welcome to the IFCSE GitHub Repository
+# 👋 Welcome to the IFCS1 GitHub Repository
 
 This repository is part of the **Intensive Foundation to Computer Science and Programming (IFCS1)** course. Here, you'll learn the fundamentals of programming and software development while mastering collaboration skills through GitHub. 
 
