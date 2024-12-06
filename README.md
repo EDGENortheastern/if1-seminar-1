@@ -34,3 +34,4 @@ In this course, GitHub will help you:
 - Start exploring issues  
 - Join the repo and make your first contribution to the ReadMe!
 
+#### Hello - do not do that
