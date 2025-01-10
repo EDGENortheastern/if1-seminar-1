@@ -41,6 +41,11 @@ a=2
 ```
 
 
+```bash
+git clone https://github.com/EDGENortheastern/if1-seminar-1
+```
+
+
 
 
 
