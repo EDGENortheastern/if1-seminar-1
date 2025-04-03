@@ -46,3 +46,11 @@ git clone https://github.com/EDGENortheastern/if1-seminar-1
 ```
 
 ## Hello from April 25
+
+### Technical Documentation 
+
+To clone the repository
+
+```
+git clone https://github.com/EDGENortheastern/if1-seminar-1
+```
