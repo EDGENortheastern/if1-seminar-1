@@ -51,6 +51,8 @@ git clone https://github.com/EDGENortheastern/if1-seminar-1
 
 To clone the repository
 
+blah blah
+
 ```
 git clone https://github.com/EDGENortheastern/if1-seminar-1
 ```
