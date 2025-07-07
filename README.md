@@ -60,7 +60,7 @@ git clone https://github.com/EDGENortheastern/if1-seminar-1
 ## Contribution from Mariano Palomares on 07/07/2025
 
 This is an example of the student Mariano Palomares Martin contributing from a branch and then pushing a commit to the main repo.
-``sql
+```sql
 SELECT 1::integer as id
 ```
 
