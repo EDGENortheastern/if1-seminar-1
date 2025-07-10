@@ -56,3 +56,10 @@ blah blah
 ```
 git clone https://github.com/EDGENortheastern/if1-seminar-1
 ```
+
+## TechDocs Tips
+
+```bash
+git clone git@github.com:EDGENortheastern/if1-seminar-1.git
+```
+
