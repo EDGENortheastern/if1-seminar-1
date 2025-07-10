@@ -84,3 +84,18 @@ if user_input == equation_gen()[1]:
 else:
     print("Incorrect!")
 ```
+
+# Added by Mariano Palomares on 10/07/2025 as an example for the seminar 2.
+
+## Example of modification on the `README.md` file
+Created by @PalomaresM 
+
+``sql
+SELECT 1::integer as id
+```
+
+```python
+print("Hi class!)
+```
+I have left some `issues` because I would like a code review from Katia in order to submit some changes so I can review the required changes in Github.
+
